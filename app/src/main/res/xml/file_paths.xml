@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <cache-path name="product_photos" path="product_photos/" />
+    <cache-path name="reports" path="reports/" />
+    <cache-path name="business_cards_cache" path="business_cards/" />
+    <files-path name="files_product_photos" path="product_photos/" />
+    <files-path name="business_cards_files" path="business_cards/" />
+    <files-path name="reports_files" path="reports/" />
+    <external-files-path name="external_downloads" path="Download/" />
+</paths>
